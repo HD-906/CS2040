@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="School/skeleton/|Soccer/skeleton/|Cinema/skeleton/" kind="src" path="Lab7_public"/>
+	<classpathentry kind="src" path="Lab7_public/Cinema/skeleton"/>
+	<classpathentry kind="src" path="Lab7_public/School/skeleton"/>
+	<classpathentry kind="src" path="Lab7_public/Soccer/skeleton"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

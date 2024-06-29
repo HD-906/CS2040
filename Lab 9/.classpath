@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_1819/bracketflips/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_1819/popmiddle/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_1819/retransmission/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_1819/shooting/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_1819/speakers/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_2122/counting/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_2122/list/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_2122/luckydraw/skeleton"/>
+	<classpathentry kind="src" path="Past_Year_PE_Practice/AY_2122/supermarket/skeleton"/>
+	<classpathentry kind="src" path="public/skeleton"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

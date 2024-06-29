@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AlwaysPalindromes/skeleton"/>
+	<classpathentry kind="src" path="Hello/skeleton"/>
+	<classpathentry kind="src" path="TwoDCipher/skeleton"/>
+	<classpathentry kind="output" path="Hello/bin"/>
+</classpath>
